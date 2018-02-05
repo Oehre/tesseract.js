@@ -31,7 +31,7 @@
     "level-js": "^2.2.4",
     "node-fetch": "^1.6.3",
     "object-assign": "^4.1.0",
-    "png.js": "^0.2.1",
+    "png.js": "git+https://github.com/Oehre/pngjs",
     "tesseract.js-core": "^1.0.2"
   },
   "repository": {
